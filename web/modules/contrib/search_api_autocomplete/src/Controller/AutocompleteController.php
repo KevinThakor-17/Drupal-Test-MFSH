@@ -17,7 +17,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Drupal\Component\Transliteration\TransliterationInterface;
 
 /**
- * Provides a controller for autocompletion.pp
+ * Provides a controller for autocompletion.
  */
 class AutocompleteController extends ControllerBase implements ContainerInjectionInterface {
 
